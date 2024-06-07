@@ -1,0 +1,88 @@
+const list = [
+    {
+      id: 1,
+      title: "CHECK PRINT SHIRT",
+      price: 399,
+      img: "https://guesseu.scene7.com/is/image/GuessEU/M63H24W7JF0-L302-ALTGHOST?wid=1500&fmt=jpeg&qlt=80&op_sharpen=0&op_usm=1.0,1.0,5,0&iccEmbed=0",
+      amount: 1,
+    },
+    {
+      id: 2,
+      title: "GLORIA HIGH LOGO SNEAKER",
+      price: 750,
+      img: "https://guesseu.scene7.com/is/image/GuessEU/FLGLO4FAL12-BEIBR?wid=700&amp;fmt=jpeg&amp;qlt=80&amp;op_sharpen=0&amp;op_usm=1.0,1.0,5,0&amp;iccEmbed=0",
+      amount: 1,
+    },
+    {
+      id: 3,
+      title: "CATE RIGID BAG",
+      price: 780,
+      img: "https://guesseu.scene7.com/is/image/GuessEU/HWVG6216060-TAN?wid=700&amp;fmt=jpeg&amp;qlt=80&amp;op_sharpen=0&amp;op_usm=1.0,1.0,5,0&amp;iccEmbed=0",
+      amount: 1,
+    },
+    {
+      id: 4,
+      title: "GUESS CONNECT WATCH",
+      price: 1987,
+      img: "http://guesseu.scene7.com/is/image/GuessEU/WC0001FMSWC-G5?wid=520&fmt=jpeg&qlt=80&op_sharpen=0&op_usm=1.0,1.0,5,0&iccEmbed=0",
+      amount: 1,
+    },
+    {
+      id: 5,
+      title: "Punta Seltos Intel® Core™ i5-650 Processor ",
+      price: 2500,
+      img: "https://rukminim2.flixcart.com/image/312/312/xif0q/desktop-computer/z/y/v/1-fron889-frontech-gaming-pc-original-imagqhqpy8nuyg7p.jpeg?q=70",
+      amount: 1,
+    },
+    {
+      id: 6,
+      title: "realme P1 Pro 5G (Phoenix Red, 128 GB)  (8 GB RAM)",
+      price: 17000,
+      img: "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/m/r/p/-original-imahyzygqydqtyvj.jpeg?q=70",
+      amount: 1,
+    },
+    {
+      id: 7,
+      title: "vivo T2x 5G (Aurora Gold, 128 GB)  (4 GB RAM)",
+      price: 12000,
+      img: "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/c/s/x/-original-imagzjhwaaewgj8r.jpeg?q=70",
+      amount: 1,
+    },
+    {
+      id: 8,
+      title: "Frontech CI510TH Desktop Computer Core i5",
+      price: 3400,
+      img: "https://rukminim2.flixcart.com/image/312/312/kj4m0sw0-0/allinone-desktop/v/o/n/e-2-gb-gddr4-windows-core-i3-8-gb-frontech-original-imafyrfwayk2wnez.jpeg?q=70",
+      amount: 1,
+    },
+    {
+      id: 9,
+      title: "Men Checkered Polo Neck Cotton Blend Dark Blue, White T-Shirt",
+      price: 300,
+      img: "https://rukminim2.flixcart.com/image/612/612/xif0q/t-shirt/x/c/x/s-ausk0578-ausk-original-imagt4sysbwkgzyj.jpeg?q=70",
+      amount: 1,
+    },
+    {
+      id: 10,
+      title: "21.65 L Backpack BRAT  (Green)",
+      price: 380,
+      img: "https://rukminim2.flixcart.com/image/612/612/xif0q/backpack/t/8/x/-original-imagsz842pv7sq25.jpeg?q=70",
+      amount: 1,
+    },
+    {
+      id: 11,
+      title: "VHA Set of 15 Pattern Discs Kitchen Press",
+      price: 250,
+      img: "https://rukminim2.flixcart.com/image/612/612/kckud8w0/kitchen-press/s/k/y/kitchen-press001-mishree-original-imaftz9pzbtzkhpy.jpeg?q=70",
+      amount: 1,
+    },
+    {
+      id: 12,
+      title: "Men Regular Mid Rise Light Blue Jeans",
+      price: 400,
+      img: "https://rukminim2.flixcart.com/image/612/612/xif0q/jean/t/j/9/28-kttmensjeans51-kotty-original-imagzmj6h9afyman.jpeg?q=70",
+      amount: 1,
+    },
+];
+
+export default list;
