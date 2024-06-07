@@ -4,7 +4,7 @@ export default function({size, setDisplay}){
   return (
     <nav>
         <div className="nav_box">
-            <span className="my_shop" onClick={()=>setDisplay(true)}>
+            <span className="my_cart" onClick={()=>setDisplay(true)}>
                 Shopping Cart
             </span>
             <div className="cart" onClick={()=>setDisplay(false)}>
