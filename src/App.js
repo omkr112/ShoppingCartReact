@@ -40,7 +40,7 @@ export default function App(){
 	}
 
   return (
-	<React.Fragment>
+	<>
 		<Navbar size={cart.length} setDisplay={setDisplay} />
 		{
 			display ? <Website handleClick={handleClick} /> : <Cart cart={cart} setCart={setCart} handleChange={handleChange} />
@@ -48,7 +48,7 @@ export default function App(){
 		{
 			alert && <div className='alert'>Item is already added </div>
 		}
-	</React.Fragment>
+	</>
   )
 }
 
