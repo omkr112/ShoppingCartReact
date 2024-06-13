@@ -2,7 +2,7 @@ import React from 'react';
 import list from '../dProducts';
 import Cards from './Cards';
 
-export default function({handleClick}){
+export default function Website({handleClick}){
   return (
     <section>
         {
