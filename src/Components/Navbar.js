@@ -1,6 +1,6 @@
 import React from 'react';
 
-export default function({size, setDisplay}){
+export default function Navbar({size, setDisplay}){
   return (
     <nav>
         <div className="nav_box">
